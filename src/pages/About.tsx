@@ -51,19 +51,19 @@ const About = () => {
       name: "J AnandaNarayan",
       role: "CEO & Co-founder",
       bio: "Former cybersecurity executive with 1+ years at leading security firms.",
-      image: "https://images.unsplash.com/photo-1494790108755-2616b612b786?w=400&h=400&fit=crop&crop=face"
+      image: "e"
     },
     {
       name: "Aman Goswami",
       role: "CTO & Co-founder",
       bio: "Security researcher and former principal engineer at major tech companies.",
-      image: "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=400&h=400&fit=crop&crop=face"
+      image: "e"
     },
     {
       name: "Ankit Mohanty",
       role: "CFO & Co-founder",
       bio: "PhD in Computer Security, published researcher in AI-driven threat detection.",
-      image: "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?w=400&h=400&fit=crop&crop=face"
+      image: "e"
     }
   ];
 
