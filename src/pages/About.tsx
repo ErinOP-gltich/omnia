@@ -50,19 +50,19 @@ const About = () => {
     {
       name: "J AnandaNarayan",
       role: "CEO & Co-founder",
-      bio: "Former cybersecurity executive with 1+ years at leading security firms.",
+      bio: "Former cybersecurity Enthusiast and Btech in Computer Secuirty",
       image: "e"
     },
     {
       name: "Aman Goswami",
       role: "CTO & Co-founder",
-      bio: "Security researcher and former principal engineer at major tech companies.",
+      bio: "Security researcher and Btech in Computer Security",
       image: "e"
     },
     {
       name: "Ankit Mohanty",
       role: "CFO & Co-founder",
-      bio: "PhD in Computer Security, published researcher in AI-driven threat detection.",
+      bio: "Btech in Computer Security,",
       image: "e"
     }
   ];
